@@ -14,7 +14,7 @@ go get github.com/radmirid/crypto-price-client
 go run main.go
 ```
 
-##  Sample Usage
+##  Usage Example
 
 `Input`
 
