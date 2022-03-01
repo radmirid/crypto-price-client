@@ -2,13 +2,13 @@
 
 Golang REST API client which outputs the price of the entered cryptocurrency.
 
-## Installation
+## Installing
 
 ```
 go get github.com/radmirid/crypto-price-client
 ```
 
-## Run
+## Running
 
 ```
 go run main.go
